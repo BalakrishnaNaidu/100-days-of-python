@@ -4,5 +4,5 @@
 
 ---
 
-* [Day 01 - Working with Variables in Python to Manage Data](/Day-1-Working-with-Variables-in-Python-to-Manage-Data/ "Day-01")
-* 
+* [Day 01 - Working with Variables in Python to Manage Data](/Day-01-Working-with-Variables-in-Python-to-Manage-Data/ "Day-01")
+* [Day 02 - Understanding Data Types and How to Manipulate Strings](/Day-02-Understanding-Data-Types-and-How-to-Manipulate-Strings/ "Day-02") 
