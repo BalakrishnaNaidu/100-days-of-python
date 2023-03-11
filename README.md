@@ -5,4 +5,5 @@
 ---
 
 * [Day 01 - Working with Variables in Python to Manage Data](/Day-01-Working-with-Variables-in-Python-to-Manage-Data/ "Day-01")
-* [Day 02 - Understanding Data Types and How to Manipulate Strings](/Day-02-Understanding-Data-Types-and-How-to-Manipulate-Strings/ "Day-02") 
+* [Day 02 - Understanding Data Types and How to Manipulate Strings](/Day-02-Understanding-Data-Types-and-How-to-Manipulate-Strings/ "Day-02")
+* [Day 03 - Control Flow and Logical Operators](/Day-03-Control-Flow-and-Logical-Operators/ "Day-03") 
