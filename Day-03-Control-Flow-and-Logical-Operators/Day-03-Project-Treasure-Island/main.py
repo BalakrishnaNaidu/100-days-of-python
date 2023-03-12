@@ -28,24 +28,28 @@ print("Your mission is to find the treasure.")
 # Write your code below this line 👇
 
 # Enter Level !
-level_1 = input(
-    """You're at a crossroad. Where do you want to go? \nType "left" or "right"? """)
+level_1 = input("You're at a crossroad. Where do you want to go? "
+                "Type 'left' or 'right'?\n")
 
 if level_1.lower() != "left":
     print("You fell into a hole. Game Over.")
 
 else:
     # Enter Level 2
-    level_2 = input(
-        """You've come to a lake. There is an island in the middle of the lake. \nType "wait" to wait for a boat. Type "swim" to swim across: """)
+    level_2 = input("You've come to a lake. "
+                    "There is an island in the middle of the lake. "
+                    "Type 'wait' to wait for a boat. "
+                    "Type 'swim' to swim across:\n")
 
     if level_2.lower() != "wait":
         print("You get attacked by an angry trout. Game Over.")
 
     else:
         # Enter Level 3
-        level_3 = input(
-            """You arrive at the island unharmed. There is a house with 3 doors. \nOne red, one yellow and one blue. \nWhich colour do you choose? """)
+        level_3 = input("You arrive at the island unharmed. "
+                        "There is a house with 3 doors. "
+                        "One red, one yellow and one blue. "
+                        "Which colour do you choose?\n")
 
         if level_3.lower() == "red":
             print("It's a room full of fire. Game Over.")
