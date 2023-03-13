@@ -12,4 +12,5 @@
     * [Treasure-Island](https://replit.com/@BalakrishnaNaidu/Day-03-Project-Treasure-Island "Project-Treasure-Island")
 * [Day 04 - Randomisation and Python Lists](/Day-04-Randomisation-and-Python-Lists/ "Day-04")
     * [Rock-Paper-Scissors](https://replit.com/@BalakrishnaNaidu/Day-04-Project-Rock-Paper-Scissors "Rock-Paper-Scissors")
-* 
+* [Day 5 - Python Loops](/Day-05-Python-Loops/ "Python-Loops")
+    * [Create-Password-Generator](https://replit.com/@BalakrishnaNaidu/Day-05-Project-Create-Password-Generator "Create-Password-Generator")
